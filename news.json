@@ -1,0 +1,159 @@
+{
+
+    "status": "ok",
+    "totalResults": 10,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Joe Apprendi",
+            "title": "Accessibility awareness is on the rise, but is it turning into action?",
+            "description": "Are organizations finally getting the message on the importance of accessibility?",
+            "url": "https://techcrunch.com/2021/12/26/accessibility-awareness-is-on-the-rise-but-is-it-turning-into-action/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1167989712.jpg?w=600",
+            "publishedAt": "2021-12-26T15:12:28Z",
+            "content": "For almost two years, people everywhere made massive adjustments to how they interact with the world. It forced many to change their daily behaviors. Unfortunately, some of these changes would make d… [+7690 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dr. Samantha Hoffman",
+            "title": "How to avoid falling into China’s 'data trap'",
+            "description": "The TechCrunch Global Affairs Project examines the increasingly intertwined relationship between the tech sector and global politics.",
+            "url": "https://techcrunch.com/2021/12/26/how-to-avoid-falling-into-chinas-data-trap/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/cloud_data_trap.jpg?w=600",
+            "publishedAt": "2021-12-26T14:08:10Z",
+            "content": "The TechCrunch Global Affairs Project examines the increasingly intertwined relationship between the tech sector and global politics.\r\nRecent prominent data breach incidents, such as hacks of the Off… [+6246 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Infinite revenue multiples",
+            "description": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.",
+            "url": "https://techcrunch.com/2021/12/25/infinite-revenue-multiples/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+            "publishedAt": "2021-12-25T18:01:27Z",
+            "content": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here. … [+5103 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Miranda Halpern",
+            "title": "This week in TechCrunch Experts: conversational UX, brand building 101, marketing survey",
+            "description": "I reached back out to 10 marketers we've met through our Experts program and asked them to share predications for the new year and reflect on some of the trends we've seen in 2021.",
+            "url": "https://techcrunch.com/2021/12/24/this-week-in-techcrunch-experts-conversational-ux-brand-building-101-marketing-survey/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1132507516.jpg?w=600",
+            "publishedAt": "2021-12-25T03:00:09Z",
+            "content": "Before we review the Experts-related articles published over the last two weeks, I want to thank Walter Thompson, Anna Heim, Annie Saunders, Richard Dal Porto and Ram Iyer for sharing ideas, stories … [+4940 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amnon Mishor",
+            "title": "Stop creating self-fulfilling prophecies: How to apply AI to small data problems",
+            "description": "To avoid the trap of creating self-fulfilling prophecies, here’s the process you should follow for applying AI to small data problems.",
+            "url": "https://techcrunch.com/2021/12/24/stop-creating-self-fulfilling-prophecies-how-to-apply-ai-to-small-data-problems/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1309763360.jpg?w=600",
+            "publishedAt": "2021-12-24T23:51:19Z",
+            "content": "Over the past decade or so, the digital revolution has given us a surplus of data. This is exciting for a number of reasons, but mostly in terms of how AI will be able to further revolutionize the en… [+2730 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dwana Franklin-Davis, Ruthe Farmer",
+            "title": "Tech companies: Stop conflating privilege with potential",
+            "description": "Socioeconomic status must be part of the “diversity” conversation –– it is underreported and underdiscussed.",
+            "url": "https://techcrunch.com/2021/12/24/tech-companies-stop-conflating-privilege-with-potential/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-492927271.jpg?w=600",
+            "publishedAt": "2021-12-24T22:05:18Z",
+            "content": "The number of low-income students attending college is increasing: According to a 2016 report from the Pew Research Center, the total share of undergraduate college students who come from low-income … [+7322 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "TechCrunch Staff, Greg Kumparak",
+            "title": "Gift Guide: TechCrunch's Favorite Things of 2021",
+            "description": "We made it, friends. Another year in the books. Was it the very normal year we all wanted? No. But, for many, it was at least a step in that direction. Or maybe two steps in that direction, and one step back. Yeah, it was still a weird one. No matter the year…",
+            "url": "https://techcrunch.com/2021/12/24/gift-guide-techcrunchs-favorite-things-of-2021/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/gift-guide-2021-tc-favs.jpg?w=711",
+            "publishedAt": "2021-12-24T22:00:44Z",
+            "content": "We made it, friends. Another year in the books.\r\nWas it the very normal year we all wanted? No. But, for many, it was at least a step in that direction. Or maybe two steps in that direction, and one … [+17454 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Microsoft pulls in-person CES 2022 presence",
+            "description": "GM, Google, Lenovo, Intel, T-Mobile, AT&T, Meta, Twitter, Amazon, TikTok, Pinterest, and now Microsoft. The software giant just became the latest big name to announce that it will no long be attending CES in-person in less than two weeks’ time. “After reviewi…",
+            "url": "https://techcrunch.com/2021/12/24/microsoft-pulls-in-person-ces-2022-presence/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=600",
+            "publishedAt": "2021-12-24T21:27:10Z",
+            "content": "GM, Google, Lenovo, Intel, T-Mobile, AT&amp;T, Meta, Twitter, Amazon, TikTok, Pinterest, and now Microsoft. The software giant just became the latest big name to announce that it will no long be atte… [+1989 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Walter Thompson",
+            "title": "TechCrunch+ roundup: Ahrefs' homepage, digital health trends, 2022 marketing predictions",
+            "description": "As we get closer to the end of the year, we’re running more stories that look back at topics we examined in depth over the last several months, and several that offer well-informed predictions for the year ahead. This week, Bill Taranto, president of Merck’s …",
+            "url": "https://techcrunch.com/2021/12/24/techcrunch-roundup-ahrefs-homepage-digital-health-trends-2022-marketing-predictions/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-599121759.jpg?w=601",
+            "publishedAt": "2021-12-24T19:16:12Z",
+            "content": "As we get closer to the end of the year, were running more stories that look back at topics we examined in depth over the last several months, and several that offer well-informed predictions for the… [+5173 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "How Rocket Lab questions the fundamentals of building both rockets and launch companies",
+            "description": "\"You've got to help create this environment that ultimately you want to participate and thrive in.\"",
+            "url": "https://techcrunch.com/2021/12/24/how-rocket-lab-questions-the-fundamentals-of-building-both-rockets-and-launch-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/peter-beck-rocket-lab-1.jpg?w=614",
+            "publishedAt": "2021-12-24T18:37:02Z",
+            "content": "Rocket Lab CEO Peter Beck has had an eventful couple of years, despite the unpredictable challenges that COVID-19 threw in the path of the rocket maker’s LA and New Zealand-based operations.Just thi… [+2373 chars]"
+        }
+    ]
+
+}
